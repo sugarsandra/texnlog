@@ -1,6 +1,8 @@
 # texnlog
 For the project holographiko roloi - imerologio with Arduino Nano and C/C++
 
+
+
 Τίτλος πρότζεκτ()
 
 {
@@ -8,6 +10,8 @@ For the project holographiko roloi - imerologio with Arduino Nano and C/C++
   Ολογραφικό ρολόι-ημερολογιο
 
 }
+
+
 
 Συμμετέχοντες Σπουδαστές()
 
@@ -19,9 +23,12 @@ For the project holographiko roloi - imerologio with Arduino Nano and C/C++
 
 }
 
+
+
 Περίληψη()
 
 {
 
 Ολόγραμμα ρολογιού, με βάση Arduino, γραμμένο σε C/C++ το οποίο απεικονίζει με χρήση LED την ώρα και την ημερομηνία σε 3D μορφή.
+
 }
