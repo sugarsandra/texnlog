@@ -1,0 +1,18 @@
+{
+
+Το υλικό μέρος του πρότζεκτ αποτελείται από αυτά τα εξαρτήματα (φαίνονται και στην φωτογραφία):
+
+}
+
+Hardware()
+
+{
+
+- Arduino Nano
+- PCB board
+- LED lights
+- Ένα motor
+- Resistors
+- Transistor
+
+}
